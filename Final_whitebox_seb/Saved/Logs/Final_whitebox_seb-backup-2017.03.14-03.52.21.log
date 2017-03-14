@@ -1,0 +1,1157 @@
+﻿Log file open, 03/10/17 16:26:26
+LogInit:Display: Running engine for game: Final_whitebox_seb
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-2047520161) SRandInit(-2047520161).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.057805
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.03.10-15.26.27:122][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.10-15.26.27:122][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.03.10-15.26.27:135][  0]LogInit: Computer: MSISEB
+[2017.03.10-15.26.27:135][  0]LogInit: User: Seb
+[2017.03.10-15.26.27:135][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.03.10-15.26.27:135][  0]LogInit: High frequency timer resolution =2.728057 MHz
+[2017.03.10-15.26.27:135][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.03.10-15.26.27:135][  0]LogMemory: Platform Memory Stats for Windows
+[2017.03.10-15.26.27:135][  0]LogMemory: Process Physical Memory: 261.58 MB used, 261.58 MB peak
+[2017.03.10-15.26.27:135][  0]LogMemory: Process Virtual Memory: 262.08 MB used, 262.08 MB peak
+[2017.03.10-15.26.27:135][  0]LogMemory: Physical Memory: 3983.50 MB used,  4128.72 MB free, 8112.21 MB total
+[2017.03.10-15.26.27:135][  0]LogMemory: Virtual Memory: 656.25 MB used,  4128.72 MB free, 134217728.00 MB total
+[2017.03.10-15.26.27:162][  0]LogTextLocalizationManager: No translations for ('fr-FR') exist, falling back to 'en' for localization and internationalization data.
+[2017.03.10-15.26.27:812][  0]LogD3D11RHI: D3D11 adapters:
+[2017.03.10-15.26.27:828][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 860M' (Feature Level 11_0)
+[2017.03.10-15.26.27:828][  0]LogD3D11RHI:       1985/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.03.10-15.26.27:834][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2017.03.10-15.26.27:834][  0]LogD3D11RHI:       0/0/1792 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.03.10-15.26.27:834][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.03.10-15.26.27:834][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.03.10-15.26.27:834][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.03.10-15.26.27:838][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.03.10-15.26.27:838][  0]LogD3D11RHI:     GPU DeviceId: 0x119a (for the marketing name, search the web for "GPU Device Id")
+[2017.03.10-15.26.27:838][  0]LogWindows: EnumDisplayDevices:
+[2017.03.10-15.26.27:839][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2017.03.10-15.26.27:839][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.03.10-15.26.27:839][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.03.10-15.26.27:839][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.03.10-15.26.27:839][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 860M
+[2017.03.10-15.26.27:839][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.03.10-15.26.27:839][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.03.10-15.26.27:839][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.03.10-15.26.27:847][  0]LogD3D11RHI:Warning: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2017.03.10-15.26.27:847][  0]LogD3D11RHI: Async texture creation enabled
+[2017.03.10-15.26.27:859][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.03.10-15.26.27:860][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Intermediate/Shaders/WorkingDirectory/7172/).
+[2017.03.10-15.26.27:860][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Seb/AppData/Local/Temp/UnrealShaderWorkingDir/C283F8B248D97B26F03DF1A4F8FC2851/'.
+[2017.03.10-15.26.27:860][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.03.10-15.26.28:926][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.03.10-15.26.28:978][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.03.10-15.26.29:031][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.03.10-15.26.29:084][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.03.10-15.26.29:147][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.03.10-15.26.29:204][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.03.10-15.26.29:281][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.03.10-15.26.29:371][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.03.10-15.26.29:423][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.03.10-15.26.29:474][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.03.10-15.26.29:525][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.03.10-15.26.29:575][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.03.10-15.26.29:631][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.03.10-15.26.29:678][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.03.10-15.26.29:730][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.03.10-15.26.29:830][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.03.10-15.26.29:830][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.03.10-15.26.29:865][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.03.10-15.26.29:944][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.03.10-15.26.29:977][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.03.10-15.26.30:028][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.03.10-15.26.30:078][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.03.10-15.26.30:132][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.03.10-15.26.30:182][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.03.10-15.26.30:182][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.03.10-15.26.30:536][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.03.10-15.26.30:603][  0]LogDerivedDataCache: Loaded boot cache 0.07s 50MB C:/Users/Seb/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.03.10-15.26.30:603][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Seb/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.03.10-15.26.30:603][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.03.10-15.26.30:603][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.03.10-15.26.30:603][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.03.10-15.26.30:603][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.03.10-15.26.30:623][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.03.10-15.26.30:635][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Seb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.03.10-15.26.30:835][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.10-15.26.30:838][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.03.10-15.26.31:030][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.03.10-15.26.31:068][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.03.10-15.26.31:111][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.03.10-15.26.31:111][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.03.10-15.26.31:111][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.03.10-15.26.31:662][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: final_whitebox_seb, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3059300576
+[2017.03.10-15.26.31:716][  0]LogAssetRegistry: FAssetRegistry took 0.0219 seconds to start up
+[2017.03.10-15.26.31:759][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.014803 seconds
+[2017.03.10-15.26.31:765][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.03.10-15.26.31:765][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.03.10-15.26.31:765][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.03.10-15.26.31:817][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.03.10-15.26.32:467][  0]LogSlate: Using Freetype 2.6.0
+[2017.03.10-15.26.32:467][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.10-15.26.32:467][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.10-15.26.33:206][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.03.10-15.26.33:241][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.03.10-15.26.33:519][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.03.10-15.26.33:869][  0]SourceControl: Info Source control is disabled
+[2017.03.10-15.26.33:897][  0]SourceControl: Info Source control is disabled
+[2017.03.10-15.26.33:936][  0]SourceControl: Info Source control is disabled
+[2017.03.10-15.26.33:975][  0]SourceControl: Info Source control is disabled
+[2017.03.10-15.26.35:076][  0]LogEngine: Initializing Engine...
+[2017.03.10-15.26.35:076][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.03.10-15.26.35:310][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.03.10-15.26.35:319][  0]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-15.26.35:331][  0]LogInit: FAudioDevice initialized.
+[2017.03.10-15.26.35:364][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/Seb/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.03.10-15.26.35:379][  0]LogInit: Texture streaming: Enabled
+[2017.03.10-15.26.35:547][  0]LogInit: Transaction tracking system initialized
+[2017.03.10-15.26.35:859][  0]BlueprintLog: New page: Editor Load
+[2017.03.10-15.26.36:632][  0]LocalizationService: Info Localization service is disabled
+[2017.03.10-15.26.37:203][  0]LogConsoleResponse:Display: 
+[2017.03.10-15.26.37:347][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.03.10-15.26.37:347][  0]LogCook:Display: Mobile HDR setting 1
+[2017.03.10-15.26.37:774][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Content/' took 0.01s
+[2017.03.10-15.26.38:171][  0]SourceControl: Info Source control is disabled
+[2017.03.10-15.26.38:172][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.10-15.26.38:172][  0]LightingResults: New page: Lighting Build
+[2017.03.10-15.26.38:214][  0]MapCheck: New page: Map Check
+[2017.03.10-15.26.38:214][  0]LightingResults: New page: Lighting Build
+[2017.03.10-15.26.38:419][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.03.10-15.26.38:420][  0]LogActorComponent: RegisterComponentWithWorld: (/Temp/Untitled_1.Untitled_1:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.10-15.26.38:425][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.10-15.26.38:430][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.10-15.26.38:471][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 40.385ms to complete.
+[2017.03.10-15.26.38:471][  0]LogFileHelpers: Loading map 'Template_Default' took 0.299
+[2017.03.10-15.26.38:528][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.03.10-15.26.38:596][  0]LogCollectionManager: Loaded 0 collections in 0.001222 seconds
+[2017.03.10-15.26.38:668][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Collections/' took 0.01s
+[2017.03.10-15.26.38:668][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Content/Developers/Seb/Collections/' took 0.01s
+[2017.03.10-15.26.38:668][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Content/Collections/' took 0.01s
+[2017.03.10-15.26.38:668][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.03.10-15.26.38:680][  0]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 2190 classes and 428 folders.
+[2017.03.10-15.26.38:722][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.03.10-15.26.38:722][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.03.10-15.26.38:722][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0005 seconds. Added 13 classes and 0 folders.
+[2017.03.10-15.26.38:780][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.03.10-15.26.38:815][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.03.10-15.26.38:854][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.03.10-15.26.38:925][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.03.10-15.26.40:420][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.03.10-15.26.40:441][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.03.10-15.26.40:768][  0]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Finalwhiteboxseb
+
+[2017.03.10-15.26.40:768][  0]LogTemp:Display: CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.03.10-15.26.40:768][  0]LogTemp:Display: Initial Dir: C:\Program Files (x86)\Epic Games\4.14
+
+[2017.03.10-15.26.40:768][  0]LogTemp:Display: Env CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.03.10-15.26.40:768][  0]LogTemp:Display: BranchPath = MSISEB/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries --- GameBranchPath = MSISEB/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries
+
+[2017.03.10-15.26.40:768][  0]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: Impossible de trouver une partie du chemin d'acc?s 'C:\Users\Seb\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles'.
+
+[2017.03.10-15.26.40:768][  0]LogTemp:Display:    ? System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.03.10-15.26.40:768][  0]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.03.10-15.26.40:768][  0]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+
+[2017.03.10-15.26.40:768][  0]LogTemp:Display:    ? System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.03.10-15.26.40:768][  0]LogTemp:Display:    ? iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.03.10-15.26.40:768][  0]LogTemp:Display:    ? iPhonePackager.Program.Main(String[] args)
+
+[2017.03.10-15.26.40:818][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.03.10-15.26.40:818][  0]LogLoad: (Engine Initialization) Total time: 15.22 seconds
+[2017.03.10-15.26.40:818][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.08 seconds
+[2017.03.10-15.26.40:818][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.03.10-15.26.40:836][  0]LogOcInput: OculusInput pre-init called
+[2017.03.10-15.26.40:857][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.03.10-15.26.40:987][  0]LogRenderer: Reallocating scene render targets to support 1208x576 NumSamples 1 (Frame:2).
+[2017.03.10-15.26.41:466][  1]LogAssetRegistry: Asset discovery search completed in 9.7715 seconds
+[2017.03.10-15.26.41:466][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2017.03.10-15.26.41:466][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000025 seconds (updated 0 objects)
+[2017.03.10-15.27.01:880][ 82]LogAIModule: Creating AISystem for world whitebox_eva
+[2017.03.10-15.27.01:942][ 82]Cmd: MAP LOAD FILE="../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Content/whitebox_eva.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.10-15.27.01:942][ 82]LightingResults: New page: Lighting Build
+[2017.03.10-15.27.01:943][ 82]LoadErrors: New page: Loading map: whitebox_eva.umap
+[2017.03.10-15.27.01:943][ 82]MapCheck: New page: Map Check
+[2017.03.10-15.27.01:944][ 82]LightingResults: New page: Lighting Build
+[2017.03.10-15.27.02:016][ 82]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.10-15.27.02:048][ 82]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.10-15.27.02:090][ 82]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 41.069ms to complete.
+[2017.03.10-15.27.02:090][ 82]LogFileHelpers: Loading map 'whitebox_eva' took 0.148
+[2017.03.10-15.27.23:364][132]LogRenderer: Reallocating scene render targets to support 1432x924 NumSamples 1 (Frame:2562).
+[2017.03.10-15.28.56:088][394]LogEditorViewport: Clicking on Actor (LMB): Telephone_C (Telephone)
+[2017.03.10-15.28.57:355][427]LogEditorViewport: Clicking on Actor (LMB): Telephone_C (Telephone)
+[2017.03.10-15.28.58:904][535]LogEditorViewport: Clicking on Actor (context menu): Telephone_C (Telephone)
+[2017.03.10-15.29.07:106][ 32]LogEditorViewport: Clicking on Actor (context menu): Telephone_C (Telephone)
+[2017.03.10-15.29.14:685][422]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 111 classes and 0 folders.
+[2017.03.10-15.38.19:485][559]LogSavePackage: Save=166.61ms
+[2017.03.10-15.38.19:485][559]LogSavePackage: Moving '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/whitebox_eva_Auto13EE2190F4F629621E2520E9EAD038908.tmp' to '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/whitebox_eva_Auto1.umap'
+[2017.03.10-15.38.19:487][559]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/whitebox_eva_Auto1.umap
+[2017.03.10-15.38.19:517][559]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/whitebox_eva' took 0.277
+[2017.03.10-15.38.19:517][559]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.277
+[2017.03.10-15.38.19:518][559]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Telephone] ([1] browsable assets)...
+[2017.03.10-15.38.19:570][559]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Telephone.Telephone]
+[2017.03.10-15.38.19:570][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/Telephone]
+[2017.03.10-15.38.19:605][559]LogSavePackage: Save=24.54ms
+[2017.03.10-15.38.19:605][559]LogSavePackage: Moving '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Telephone_Auto11169B89745B8A72AE2FF0AA7589C8AFE.tmp' to '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/Telephone_Auto1.uasset'
+[2017.03.10-15.38.19:607][559]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/Telephone_Auto1.uasset
+[2017.03.10-15.38.19:607][559]LogFileHelpers: Auto-saving content packages took 0.090
+[2017.03.10-15.50.52:921][787]LogSavePackage: Save=125.70ms
+[2017.03.10-15.50.52:921][787]LogSavePackage: Moving '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/whitebox_eva_Auto22D6B44D14E3A09FD809615BD09C78CDF.tmp' to '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/whitebox_eva_Auto2.umap'
+[2017.03.10-15.50.52:922][787]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/whitebox_eva_Auto2.umap
+[2017.03.10-15.50.52:924][787]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/whitebox_eva' took 0.341
+[2017.03.10-15.50.52:924][787]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.341
+[2017.03.10-15.50.52:926][787]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Telephone] ([1] browsable assets)...
+[2017.03.10-15.50.52:943][787]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Telephone.Telephone]
+[2017.03.10-15.50.52:943][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/Telephone]
+[2017.03.10-15.50.53:080][787]LogSavePackage: Save=28.07ms
+[2017.03.10-15.50.53:080][787]LogSavePackage: Moving '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Telephone_Auto27D7AEFAD40D85BE0C74528A9A67B575B.tmp' to '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/Telephone_Auto2.uasset'
+[2017.03.10-15.50.53:081][787]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/Telephone_Auto2.uasset
+[2017.03.10-15.50.53:081][787]LogFileHelpers: Auto-saving content packages took 0.156
+[2017.03.10-15.53.57:363][602]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-15.53.57:391][602]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-15.53.57:391][602]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.10-15.53.57:391][602]LogPlayLevel: [PlayLevel] Compiling Telephone before play...
+[2017.03.10-15.53.57:715][602]LogPlayLevel: PlayLevel: Blueprint regeneration took 323 ms (1 blueprints)
+[2017.03.10-15.53.57:715][602]PIE: New page: PIE session: whitebox_eva (Mar 10, 2017, 5:53:57 PM)
+[2017.03.10-15.53.57:715][602]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_whitebox_eva
+[2017.03.10-15.53.57:719][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003360s)
+[2017.03.10-15.53.57:719][602]LogAIModule: Creating AISystem for world whitebox_eva
+[2017.03.10-15.53.57:719][602]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2017.03.10-15.53.57:720][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/whitebox_eva.whitebox_eva to /Game/UEDPIE_0_whitebox_eva.whitebox_eva (0.004270s)
+[2017.03.10-15.53.57:753][602]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-15.53.57:760][602]LogInit: FAudioDevice initialized.
+[2017.03.10-15.53.57:926][602]LogLoad: Game class is 'MyGame_C'
+[2017.03.10-15.53.57:928][602]LogWorld: Bringing World /Game/UEDPIE_0_whitebox_eva.whitebox_eva up for play (max tick rate 0) at 2017.03.10-16.53.57
+[2017.03.10-15.53.57:947][602]LogWorld: Bringing up level for play took: 0.019629
+[2017.03.10-15.53.57:984][602]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2017.03.10-15.53.57:987][602]PIE: Info Play in editor start time for /Game/UEDPIE_0_whitebox_eva 0.517
+[2017.03.10-15.53.57:987][602]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-15.54.00:154][708]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-15.54.00:213][708]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-15.54.08:029][ 33]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-15.54.08:046][ 33]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-15.54.08:046][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.10-15.54.08:046][ 33]PIE: New page: PIE session: whitebox_eva (Mar 10, 2017, 5:54:08 PM)
+[2017.03.10-15.54.08:046][ 33]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_whitebox_eva
+[2017.03.10-15.54.08:052][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005786s)
+[2017.03.10-15.54.08:053][ 33]LogAIModule: Creating AISystem for world whitebox_eva
+[2017.03.10-15.54.08:054][ 33]LogPlayLevel: PIE: World Init took: (0.001989s)
+[2017.03.10-15.54.08:054][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/whitebox_eva.whitebox_eva to /Game/UEDPIE_0_whitebox_eva.whitebox_eva (0.008300s)
+[2017.03.10-15.54.08:097][ 33]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-15.54.08:102][ 33]LogInit: FAudioDevice initialized.
+[2017.03.10-15.54.08:134][ 33]LogLoad: Game class is 'MyGame_C'
+[2017.03.10-15.54.08:135][ 33]LogWorld: Bringing World /Game/UEDPIE_0_whitebox_eva.whitebox_eva up for play (max tick rate 0) at 2017.03.10-16.54.08
+[2017.03.10-15.54.08:136][ 33]LogWorld: Bringing up level for play took: 0.001734
+[2017.03.10-15.54.08:138][ 33]PIE: Info Play in editor start time for /Game/UEDPIE_0_whitebox_eva 0.668
+[2017.03.10-15.54.08:138][ 33]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-15.55.03:398][749]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-15.55.03:454][749]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-15.59.56:839][647]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-15.59.56:945][647]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-15.59.56:945][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.10-15.59.56:945][647]PIE: New page: PIE session: whitebox_eva (Mar 10, 2017, 5:59:56 PM)
+[2017.03.10-15.59.56:945][647]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_whitebox_eva
+[2017.03.10-15.59.56:949][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003805s)
+[2017.03.10-15.59.56:950][647]LogAIModule: Creating AISystem for world whitebox_eva
+[2017.03.10-15.59.56:950][647]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2017.03.10-15.59.56:951][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/whitebox_eva.whitebox_eva to /Game/UEDPIE_0_whitebox_eva.whitebox_eva (0.005258s)
+[2017.03.10-15.59.56:992][647]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-15.59.56:998][647]LogInit: FAudioDevice initialized.
+[2017.03.10-15.59.57:032][647]LogLoad: Game class is 'MyGame_C'
+[2017.03.10-15.59.57:034][647]LogWorld: Bringing World /Game/UEDPIE_0_whitebox_eva.whitebox_eva up for play (max tick rate 0) at 2017.03.10-16.59.57
+[2017.03.10-15.59.57:034][647]LogWorld: Bringing up level for play took: 0.001814
+[2017.03.10-15.59.57:038][647]PIE: Info Play in editor start time for /Game/UEDPIE_0_whitebox_eva -0.433
+[2017.03.10-15.59.57:038][647]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.00.26:213][141]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.00.26:272][141]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.00.59:034][553]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-16.00.59:061][553]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.00.59:061][553]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.10-16.00.59:061][553]LogPlayLevel: [PlayLevel] Compiling Telephone before play...
+[2017.03.10-16.00.59:187][553]LogPlayLevel: PlayLevel: Blueprint regeneration took 126 ms (1 blueprints)
+[2017.03.10-16.00.59:187][553]PIE: New page: PIE session: whitebox_eva (Mar 10, 2017, 6:00:59 PM)
+[2017.03.10-16.00.59:187][553]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_whitebox_eva
+[2017.03.10-16.00.59:190][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003113s)
+[2017.03.10-16.00.59:191][553]LogAIModule: Creating AISystem for world whitebox_eva
+[2017.03.10-16.00.59:191][553]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2017.03.10-16.00.59:191][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/whitebox_eva.whitebox_eva to /Game/UEDPIE_0_whitebox_eva.whitebox_eva (0.003982s)
+[2017.03.10-16.00.59:227][553]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-16.00.59:233][553]LogInit: FAudioDevice initialized.
+[2017.03.10-16.00.59:262][553]LogLoad: Game class is 'MyGame_C'
+[2017.03.10-16.00.59:264][553]LogWorld: Bringing World /Game/UEDPIE_0_whitebox_eva.whitebox_eva up for play (max tick rate 0) at 2017.03.10-17.00.59
+[2017.03.10-16.00.59:264][553]LogWorld: Bringing up level for play took: 0.001872
+[2017.03.10-16.00.59:266][553]PIE: Info Play in editor start time for /Game/UEDPIE_0_whitebox_eva -0.204
+[2017.03.10-16.00.59:266][553]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.01.16:322][372]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.01.16:372][372]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.01.38:941][349]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-16.01.38:963][349]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.01.38:963][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.10-16.01.38:963][349]PIE: New page: PIE session: whitebox_eva (Mar 10, 2017, 6:01:38 PM)
+[2017.03.10-16.01.38:963][349]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_whitebox_eva
+[2017.03.10-16.01.38:971][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008042s)
+[2017.03.10-16.01.38:973][349]LogAIModule: Creating AISystem for world whitebox_eva
+[2017.03.10-16.01.38:973][349]LogPlayLevel: PIE: World Init took: (0.001754s)
+[2017.03.10-16.01.38:973][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/whitebox_eva.whitebox_eva to /Game/UEDPIE_0_whitebox_eva.whitebox_eva (0.010156s)
+[2017.03.10-16.01.39:017][349]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-16.01.39:023][349]LogInit: FAudioDevice initialized.
+[2017.03.10-16.01.39:053][349]LogLoad: Game class is 'MyGame_C'
+[2017.03.10-16.01.39:055][349]LogWorld: Bringing World /Game/UEDPIE_0_whitebox_eva.whitebox_eva up for play (max tick rate 0) at 2017.03.10-17.01.39
+[2017.03.10-16.01.39:055][349]LogWorld: Bringing up level for play took: 0.001585
+[2017.03.10-16.01.39:058][349]PIE: Info Play in editor start time for /Game/UEDPIE_0_whitebox_eva -0.412
+[2017.03.10-16.01.39:058][349]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.02.46:524][701]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.02.46:580][701]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.03.47:824][803]LogSavePackage: Save=111.67ms
+[2017.03.10-16.03.47:824][803]LogSavePackage: Moving '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/whitebox_eva_Auto3BB0E094B4E64BF03B17DDEB5E0E9E6F0.tmp' to '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/whitebox_eva_Auto3.umap'
+[2017.03.10-16.03.47:826][803]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/whitebox_eva_Auto3.umap
+[2017.03.10-16.03.47:828][803]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/whitebox_eva' took 0.318
+[2017.03.10-16.03.47:828][803]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.318
+[2017.03.10-16.03.47:830][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Telephone] ([1] browsable assets)...
+[2017.03.10-16.03.47:900][803]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Telephone.Telephone]
+[2017.03.10-16.03.47:900][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Telephone]
+[2017.03.10-16.03.47:989][803]LogSavePackage: Save=26.63ms
+[2017.03.10-16.03.47:989][803]LogSavePackage: Moving '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Telephone_Auto3BE68B0654851E2765E9276BFB7AF88BF.tmp' to '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/Telephone_Auto3.uasset'
+[2017.03.10-16.03.47:991][803]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/Telephone_Auto3.uasset
+[2017.03.10-16.03.47:991][803]LogFileHelpers: Auto-saving content packages took 0.161
+[2017.03.10-16.09.08:413][897]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-16.09.08:518][897]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.09.08:518][897]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.10-16.09.08:518][897]LogPlayLevel: [PlayLevel] Compiling Telephone before play...
+[2017.03.10-16.09.08:656][897]LogPlayLevel: PlayLevel: Blueprint regeneration took 138 ms (1 blueprints)
+[2017.03.10-16.09.08:656][897]PIE: New page: PIE session: whitebox_eva (Mar 10, 2017, 6:09:08 PM)
+[2017.03.10-16.09.08:656][897]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_whitebox_eva
+[2017.03.10-16.09.08:659][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003281s)
+[2017.03.10-16.09.08:660][897]LogAIModule: Creating AISystem for world whitebox_eva
+[2017.03.10-16.09.08:660][897]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2017.03.10-16.09.08:660][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/whitebox_eva.whitebox_eva to /Game/UEDPIE_0_whitebox_eva.whitebox_eva (0.004233s)
+[2017.03.10-16.09.08:696][897]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-16.09.08:701][897]LogInit: FAudioDevice initialized.
+[2017.03.10-16.09.08:733][897]LogLoad: Game class is 'MyGame_C'
+[2017.03.10-16.09.08:735][897]LogWorld: Bringing World /Game/UEDPIE_0_whitebox_eva.whitebox_eva up for play (max tick rate 0) at 2017.03.10-17.09.08
+[2017.03.10-16.09.08:736][897]LogWorld: Bringing up level for play took: 0.002026
+[2017.03.10-16.09.08:738][897]PIE: Info Play in editor start time for /Game/UEDPIE_0_whitebox_eva -0.733
+[2017.03.10-16.09.08:738][897]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.09.29:004][379]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.09.29:058][379]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.10.10:734][396]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-16.10.10:753][396]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.10.10:753][396]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.10-16.10.10:753][396]LogPlayLevel: [PlayLevel] Compiling Telephone before play...
+[2017.03.10-16.10.10:881][396]LogPlayLevel: PlayLevel: Blueprint regeneration took 128 ms (1 blueprints)
+[2017.03.10-16.10.10:881][396]PIE: New page: PIE session: whitebox_eva (Mar 10, 2017, 6:10:10 PM)
+[2017.03.10-16.10.10:881][396]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_whitebox_eva
+[2017.03.10-16.10.10:884][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002901s)
+[2017.03.10-16.10.10:884][396]LogAIModule: Creating AISystem for world whitebox_eva
+[2017.03.10-16.10.10:885][396]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2017.03.10-16.10.10:885][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/whitebox_eva.whitebox_eva to /Game/UEDPIE_0_whitebox_eva.whitebox_eva (0.003768s)
+[2017.03.10-16.10.10:919][396]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-16.10.10:925][396]LogInit: FAudioDevice initialized.
+[2017.03.10-16.10.10:955][396]LogLoad: Game class is 'MyGame_C'
+[2017.03.10-16.10.10:957][396]LogWorld: Bringing World /Game/UEDPIE_0_whitebox_eva.whitebox_eva up for play (max tick rate 0) at 2017.03.10-17.10.10
+[2017.03.10-16.10.10:957][396]LogWorld: Bringing up level for play took: 0.001955
+[2017.03.10-16.10.10:959][396]PIE: Info Play in editor start time for /Game/UEDPIE_0_whitebox_eva -0.51
+[2017.03.10-16.10.10:960][396]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.10.44:597][169]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.10.44:641][169]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.14.42:914][812]LogSavePackage: Save=111.64ms
+[2017.03.10-16.14.42:914][812]LogSavePackage: Moving '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/whitebox_eva_Auto4E025D26D402EC59D8F8811A3D15DF6CA.tmp' to '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/whitebox_eva_Auto4.umap'
+[2017.03.10-16.14.42:916][812]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/whitebox_eva_Auto4.umap
+[2017.03.10-16.14.42:918][812]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/whitebox_eva' took 0.233
+[2017.03.10-16.14.42:918][812]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.233
+[2017.03.10-16.14.42:921][812]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Telephone] ([1] browsable assets)...
+[2017.03.10-16.14.42:970][812]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Telephone.Telephone]
+[2017.03.10-16.14.42:970][812]OBJ SavePackage: Finished generating thumbnails for package [/Game/Telephone]
+[2017.03.10-16.14.43:084][812]LogSavePackage: Save=26.86ms
+[2017.03.10-16.14.43:085][812]LogSavePackage: Moving '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Telephone_Auto4C05D811B40FC1F907FA7F692787BAD91.tmp' to '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/Telephone_Auto4.uasset'
+[2017.03.10-16.14.43:086][812]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/Telephone_Auto4.uasset
+[2017.03.10-16.14.43:086][812]LogFileHelpers: Auto-saving content packages took 0.166
+[2017.03.10-16.16.29:053][857]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.03.10-16.17.25:039][116]Cmd: MAP LOAD FILE="../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Content/whitebox_eva.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.10-16.17.25:040][116]LightingResults: New page: Lighting Build
+[2017.03.10-16.17.25:042][116]LoadErrors: New page: Loading map: whitebox_eva.umap
+[2017.03.10-16.17.25:042][116]MapCheck: New page: Map Check
+[2017.03.10-16.17.25:043][116]LightingResults: New page: Lighting Build
+[2017.03.10-16.17.25:116][116]LogAIModule: Creating AISystem for world whitebox_eva
+[2017.03.10-16.17.25:198][116]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.10-16.17.25:232][116]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.10-16.17.25:290][116]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 56.936ms to complete.
+[2017.03.10-16.17.25:291][116]LogFileHelpers: Loading map 'whitebox_eva' took 0.253
+[2017.03.10-16.17.54:563][653]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.03.10-16.27.17:033][272]LogSavePackage: Save=108.95ms
+[2017.03.10-16.27.17:033][272]LogSavePackage: Moving '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/whitebox_eva_Auto5CD39654D483CBDF16A0BE3887D8C518D.tmp' to '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/whitebox_eva_Auto5.umap'
+[2017.03.10-16.27.17:035][272]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/whitebox_eva_Auto5.umap
+[2017.03.10-16.27.17:037][272]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/whitebox_eva' took 0.182
+[2017.03.10-16.27.17:037][272]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.182
+[2017.03.10-16.33.27:255][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Telephone" FILE="../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Content/Telephone.uasset" SILENT=true
+[2017.03.10-16.33.27:405][108]LogSavePackage: Save=25.43ms
+[2017.03.10-16.33.27:405][108]LogSavePackage: Moving '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/TelephoneCE13DE824A47C8A3CB3E29A52C7FDCEB.tmp' to '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Content/Telephone.uasset'
+[2017.03.10-16.33.27:411][108]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Content/Telephone.uasset
+[2017.03.10-16.33.40:148][650]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-16.33.40:172][650]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.33.40:172][650]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.10-16.33.40:172][650]LogPlayLevel: [PlayLevel] Compiling Telephone before play...
+[2017.03.10-16.33.40:290][650]LogPlayLevel: PlayLevel: Blueprint regeneration took 118 ms (1 blueprints)
+[2017.03.10-16.33.40:290][650]PIE: New page: PIE session: whitebox_eva (Mar 10, 2017, 6:33:40 PM)
+[2017.03.10-16.33.40:290][650]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_whitebox_eva
+[2017.03.10-16.33.40:293][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002929s)
+[2017.03.10-16.33.40:294][650]LogAIModule: Creating AISystem for world whitebox_eva
+[2017.03.10-16.33.40:294][650]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2017.03.10-16.33.40:294][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/whitebox_eva.whitebox_eva to /Game/UEDPIE_0_whitebox_eva.whitebox_eva (0.003790s)
+[2017.03.10-16.33.40:327][650]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-16.33.40:332][650]LogInit: FAudioDevice initialized.
+[2017.03.10-16.33.40:362][650]LogLoad: Game class is 'MyGame_C'
+[2017.03.10-16.33.40:364][650]LogWorld: Bringing World /Game/UEDPIE_0_whitebox_eva.whitebox_eva up for play (max tick rate 0) at 2017.03.10-17.33.40
+[2017.03.10-16.33.40:364][650]LogWorld: Bringing up level for play took: 0.001619
+[2017.03.10-16.33.40:366][650]PIE: Info Play in editor start time for /Game/UEDPIE_0_whitebox_eva 0.897
+[2017.03.10-16.33.40:366][650]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.33.53:951][721]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.33.53:994][721]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.35.40:027][ 82]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-16.35.40:049][ 82]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.35.40:050][ 82]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.10-16.35.40:050][ 82]LogPlayLevel: [PlayLevel] Compiling Telephone before play...
+[2017.03.10-16.35.40:180][ 82]LogPlayLevel: PlayLevel: Blueprint regeneration took 131 ms (1 blueprints)
+[2017.03.10-16.35.40:181][ 82]PIE: New page: PIE session: whitebox_eva (Mar 10, 2017, 6:35:40 PM)
+[2017.03.10-16.35.40:181][ 82]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_whitebox_eva
+[2017.03.10-16.35.40:184][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003121s)
+[2017.03.10-16.35.40:184][ 82]LogAIModule: Creating AISystem for world whitebox_eva
+[2017.03.10-16.35.40:185][ 82]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2017.03.10-16.35.40:185][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/whitebox_eva.whitebox_eva to /Game/UEDPIE_0_whitebox_eva.whitebox_eva (0.004087s)
+[2017.03.10-16.35.40:218][ 82]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-16.35.40:225][ 82]LogInit: FAudioDevice initialized.
+[2017.03.10-16.35.40:258][ 82]LogLoad: Game class is 'MyGame_C'
+[2017.03.10-16.35.40:261][ 82]LogWorld: Bringing World /Game/UEDPIE_0_whitebox_eva.whitebox_eva up for play (max tick rate 0) at 2017.03.10-17.35.40
+[2017.03.10-16.35.40:261][ 82]LogWorld: Bringing up level for play took: 0.002671
+[2017.03.10-16.35.40:264][ 82]PIE: Info Play in editor start time for /Game/UEDPIE_0_whitebox_eva 0.793
+[2017.03.10-16.35.40:264][ 82]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.35.57:595][314]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.35.57:646][314]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.38.15:247][780]LogSavePackage: Save=118.74ms
+[2017.03.10-16.38.15:247][780]LogSavePackage: Moving '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/whitebox_eva_Auto66C6CDB134586B2BA7B11BE859139ED39.tmp' to '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/whitebox_eva_Auto6.umap'
+[2017.03.10-16.38.15:248][780]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/whitebox_eva_Auto6.umap
+[2017.03.10-16.38.15:250][780]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/whitebox_eva' took 0.255
+[2017.03.10-16.38.15:250][780]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.255
+[2017.03.10-16.38.15:253][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Telephone] ([1] browsable assets)...
+[2017.03.10-16.38.15:271][780]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Telephone.Telephone]
+[2017.03.10-16.38.15:271][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/Telephone]
+[2017.03.10-16.38.15:338][780]LogSavePackage: Save=62.65ms
+[2017.03.10-16.38.15:339][780]LogSavePackage: Moving '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Telephone_Auto6CA656E0F4F4696C30EAD3F8D232C0B3B.tmp' to '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/Telephone_Auto6.uasset'
+[2017.03.10-16.38.15:340][780]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/Telephone_Auto6.uasset
+[2017.03.10-16.38.15:340][780]LogFileHelpers: Auto-saving content packages took 0.088
+[2017.03.10-16.38.59:051][  0]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-16.38.59:131][  0]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.38.59:131][  0]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.10-16.38.59:131][  0]LogPlayLevel: [PlayLevel] Compiling Telephone before play...
+[2017.03.10-16.38.59:245][  0]LogPlayLevel: PlayLevel: Blueprint regeneration took 114 ms (1 blueprints)
+[2017.03.10-16.38.59:245][  0]PIE: New page: PIE session: whitebox_eva (Mar 10, 2017, 6:38:59 PM)
+[2017.03.10-16.38.59:245][  0]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_whitebox_eva
+[2017.03.10-16.38.59:248][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003011s)
+[2017.03.10-16.38.59:249][  0]LogAIModule: Creating AISystem for world whitebox_eva
+[2017.03.10-16.38.59:249][  0]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2017.03.10-16.38.59:249][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/whitebox_eva.whitebox_eva to /Game/UEDPIE_0_whitebox_eva.whitebox_eva (0.003988s)
+[2017.03.10-16.38.59:283][  0]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-16.38.59:288][  0]LogInit: FAudioDevice initialized.
+[2017.03.10-16.38.59:322][  0]LogLoad: Game class is 'MyGame_C'
+[2017.03.10-16.38.59:325][  0]LogWorld: Bringing World /Game/UEDPIE_0_whitebox_eva.whitebox_eva up for play (max tick rate 0) at 2017.03.10-17.38.59
+[2017.03.10-16.38.59:325][  0]LogWorld: Bringing up level for play took: 0.002243
+[2017.03.10-16.38.59:328][  0]PIE: Info Play in editor start time for /Game/UEDPIE_0_whitebox_eva -0.142
+[2017.03.10-16.38.59:328][  0]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.39.24:108][253]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.39.24:164][253]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.39.38:944][ 31]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-16.39.38:960][ 31]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.39.38:960][ 31]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.10-16.39.38:960][ 31]LogPlayLevel: [PlayLevel] Compiling Telephone before play...
+[2017.03.10-16.39.39:084][ 31]LogPlayLevel: PlayLevel: Blueprint regeneration took 124 ms (1 blueprints)
+[2017.03.10-16.39.39:084][ 31]PIE: New page: PIE session: whitebox_eva (Mar 10, 2017, 6:39:39 PM)
+[2017.03.10-16.39.39:084][ 31]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_whitebox_eva
+[2017.03.10-16.39.39:087][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003084s)
+[2017.03.10-16.39.39:088][ 31]LogAIModule: Creating AISystem for world whitebox_eva
+[2017.03.10-16.39.39:088][ 31]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2017.03.10-16.39.39:088][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/whitebox_eva.whitebox_eva to /Game/UEDPIE_0_whitebox_eva.whitebox_eva (0.003938s)
+[2017.03.10-16.39.39:122][ 31]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-16.39.39:127][ 31]LogInit: FAudioDevice initialized.
+[2017.03.10-16.39.39:159][ 31]LogLoad: Game class is 'MyGame_C'
+[2017.03.10-16.39.39:161][ 31]LogWorld: Bringing World /Game/UEDPIE_0_whitebox_eva.whitebox_eva up for play (max tick rate 0) at 2017.03.10-17.39.39
+[2017.03.10-16.39.39:162][ 31]LogWorld: Bringing up level for play took: 0.001637
+[2017.03.10-16.39.39:164][ 31]PIE: Info Play in editor start time for /Game/UEDPIE_0_whitebox_eva -0.307
+[2017.03.10-16.39.39:164][ 31]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.40.10:819][627]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.40.10:877][627]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.40.30:438][628]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-16.40.30:463][628]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.40.30:463][628]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.10-16.40.30:463][628]LogPlayLevel: [PlayLevel] Compiling Telephone before play...
+[2017.03.10-16.40.30:581][628]LogPlayLevel: PlayLevel: Blueprint regeneration took 118 ms (1 blueprints)
+[2017.03.10-16.40.30:581][628]PIE: New page: PIE session: whitebox_eva (Mar 10, 2017, 6:40:30 PM)
+[2017.03.10-16.40.30:581][628]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_whitebox_eva
+[2017.03.10-16.40.30:585][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003315s)
+[2017.03.10-16.40.30:585][628]LogAIModule: Creating AISystem for world whitebox_eva
+[2017.03.10-16.40.30:585][628]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2017.03.10-16.40.30:586][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/whitebox_eva.whitebox_eva to /Game/UEDPIE_0_whitebox_eva.whitebox_eva (0.004204s)
+[2017.03.10-16.40.30:619][628]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-16.40.30:624][628]LogInit: FAudioDevice initialized.
+[2017.03.10-16.40.30:656][628]LogLoad: Game class is 'MyGame_C'
+[2017.03.10-16.40.30:658][628]LogWorld: Bringing World /Game/UEDPIE_0_whitebox_eva.whitebox_eva up for play (max tick rate 0) at 2017.03.10-17.40.30
+[2017.03.10-16.40.30:658][628]LogWorld: Bringing up level for play took: 0.001771
+[2017.03.10-16.40.30:660][628]PIE: Info Play in editor start time for /Game/UEDPIE_0_whitebox_eva 1.19
+[2017.03.10-16.40.30:661][628]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.40.40:822][120]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.40.40:864][120]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.44.56:314][439]BlueprintLog: New page: Compile Telephone
+[2017.03.10-16.45.00:090][543]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-16.45.00:107][543]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.45.00:107][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.10-16.45.00:107][543]PIE: New page: PIE session: whitebox_eva (Mar 10, 2017, 6:45:00 PM)
+[2017.03.10-16.45.00:107][543]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_whitebox_eva
+[2017.03.10-16.45.00:111][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004299s)
+[2017.03.10-16.45.00:112][543]LogAIModule: Creating AISystem for world whitebox_eva
+[2017.03.10-16.45.00:112][543]LogPlayLevel: PIE: World Init took: (0.000876s)
+[2017.03.10-16.45.00:113][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/whitebox_eva.whitebox_eva to /Game/UEDPIE_0_whitebox_eva.whitebox_eva (0.005449s)
+[2017.03.10-16.45.00:168][543]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-16.45.00:181][543]LogInit: FAudioDevice initialized.
+[2017.03.10-16.45.00:214][543]LogLoad: Game class is 'MyGame_C'
+[2017.03.10-16.45.00:216][543]LogWorld: Bringing World /Game/UEDPIE_0_whitebox_eva.whitebox_eva up for play (max tick rate 0) at 2017.03.10-17.45.00
+[2017.03.10-16.45.00:216][543]LogWorld: Bringing up level for play took: 0.001959
+[2017.03.10-16.45.00:218][543]PIE: Info Play in editor start time for /Game/UEDPIE_0_whitebox_eva 0.748
+[2017.03.10-16.45.00:219][543]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.45.19:238][154]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.45.19:311][154]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.45.48:181][905]BlueprintLog: New page: Compile Telephone
+[2017.03.10-16.45.52:732][ 31]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-16.45.52:750][ 31]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.45.52:750][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.10-16.45.52:750][ 31]PIE: New page: PIE session: whitebox_eva (Mar 10, 2017, 6:45:52 PM)
+[2017.03.10-16.45.52:750][ 31]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_whitebox_eva
+[2017.03.10-16.45.52:755][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004202s)
+[2017.03.10-16.45.52:755][ 31]LogAIModule: Creating AISystem for world whitebox_eva
+[2017.03.10-16.45.52:755][ 31]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2017.03.10-16.45.52:756][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/whitebox_eva.whitebox_eva to /Game/UEDPIE_0_whitebox_eva.whitebox_eva (0.005168s)
+[2017.03.10-16.45.52:802][ 31]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-16.45.52:809][ 31]LogInit: FAudioDevice initialized.
+[2017.03.10-16.45.52:842][ 31]LogLoad: Game class is 'MyGame_C'
+[2017.03.10-16.45.52:844][ 31]LogWorld: Bringing World /Game/UEDPIE_0_whitebox_eva.whitebox_eva up for play (max tick rate 0) at 2017.03.10-17.45.52
+[2017.03.10-16.45.52:844][ 31]LogWorld: Bringing up level for play took: 0.001420
+[2017.03.10-16.45.52:846][ 31]PIE: Info Play in editor start time for /Game/UEDPIE_0_whitebox_eva -0.623
+[2017.03.10-16.45.52:846][ 31]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.46.14:509][725]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.46.14:590][725]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.46.41:629][431]LogHttp:Warning: 00000061467CA380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.03.10-16.46.41:629][431]LogHttp:Warning: 00000061467CA380: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x610306fa90 [can pipeline])
+[2017.03.10-16.46.41:629][431]LogHttp:Warning: 00000061467CA380: libcurl info message cache 1 (Re-using existing connection! (#36) with host datarouter.ol.epicgames.com)
+[2017.03.10-16.46.41:629][431]LogHttp:Warning: 00000061467CA380: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.44.156.214) port 443 (#36))
+[2017.03.10-16.46.41:629][431]LogHttp:Warning: 00000061467CA380: libcurl info message cache 3 (upload completely sent off: 1280 out of 1280 bytes)
+[2017.03.10-16.46.41:629][431]LogHttp:Warning: 00000061467CA380: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2017.03.10-16.46.41:629][431]LogHttp:Warning: 00000061467CA380: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2017.03.10-16.46.41:629][431]LogHttp:Warning: 00000061467CA380: libcurl info message cache 6 (Closing connection 36)
+[2017.03.10-16.46.41:629][431]LogHttp:Warning: 00000061467CA380: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.03.10-16.46.41:629][431]LogHttp:Warning: 00000061467CA380: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC478DE64-4182-74C8-AEFE-D3B06EF449B1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=9194f63a49273e147f6e0aaf8734aa4f%7C6b907b87be5d4240be65e97717eb9d18%7C7581ea9d-69ce-42c5-96c0-94145e96af2c&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2017.03.10-16.46.41:629][431]LogHttp:Warning: 00000061467CA380: libcurl info message cache 9 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.03.10-16.46.41:629][431]LogHttp:Warning: 00000061467CA380: libcurl info message cache 10 (Closing connection 37)
+[2017.03.10-16.48.12:142][780]LogEditorTransaction: Undo Delete current selection
+[2017.03.10-16.48.12:933][798]LogEditorTransaction: Undo Move Node
+[2017.03.10-16.48.13:506][812]LogEditorTransaction: Undo Add Node
+[2017.03.10-16.48.14:158][828]LogEditorTransaction: Undo Delete current selection
+[2017.03.10-16.48.39:571][473]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-16.48.39:741][473]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.48.39:741][473]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.10-16.48.39:741][473]LogPlayLevel: [PlayLevel] Compiling Telephone before play...
+[2017.03.10-16.48.39:881][473]LogPlayLevel: PlayLevel: Blueprint regeneration took 140 ms (1 blueprints)
+[2017.03.10-16.48.39:882][473]PIE: New page: PIE session: whitebox_eva (Mar 10, 2017, 6:48:39 PM)
+[2017.03.10-16.48.39:882][473]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_whitebox_eva
+[2017.03.10-16.48.39:885][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003441s)
+[2017.03.10-16.48.39:886][473]LogAIModule: Creating AISystem for world whitebox_eva
+[2017.03.10-16.48.39:886][473]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2017.03.10-16.48.39:886][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/whitebox_eva.whitebox_eva to /Game/UEDPIE_0_whitebox_eva.whitebox_eva (0.004461s)
+[2017.03.10-16.48.39:921][473]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-16.48.39:927][473]LogInit: FAudioDevice initialized.
+[2017.03.10-16.48.39:959][473]LogLoad: Game class is 'MyGame_C'
+[2017.03.10-16.48.39:961][473]LogWorld: Bringing World /Game/UEDPIE_0_whitebox_eva.whitebox_eva up for play (max tick rate 0) at 2017.03.10-17.48.39
+[2017.03.10-16.48.39:961][473]LogWorld: Bringing up level for play took: 0.001877
+[2017.03.10-16.48.39:964][473]PIE: Info Play in editor start time for /Game/UEDPIE_0_whitebox_eva 0.493
+[2017.03.10-16.48.39:964][473]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.48.51:650][791]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.48.51:739][791]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.48.56:218][889]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-16.48.56:237][889]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.48.56:237][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.10-16.48.56:237][889]PIE: New page: PIE session: whitebox_eva (Mar 10, 2017, 6:48:56 PM)
+[2017.03.10-16.48.56:237][889]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_whitebox_eva
+[2017.03.10-16.48.56:241][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003388s)
+[2017.03.10-16.48.56:241][889]LogAIModule: Creating AISystem for world whitebox_eva
+[2017.03.10-16.48.56:241][889]LogPlayLevel: PIE: World Init took: (0.000547s)
+[2017.03.10-16.48.56:241][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/whitebox_eva.whitebox_eva to /Game/UEDPIE_0_whitebox_eva.whitebox_eva (0.004126s)
+[2017.03.10-16.48.56:284][889]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-16.48.56:293][889]LogInit: FAudioDevice initialized.
+[2017.03.10-16.48.56:329][889]LogLoad: Game class is 'MyGame_C'
+[2017.03.10-16.48.56:331][889]LogWorld: Bringing World /Game/UEDPIE_0_whitebox_eva.whitebox_eva up for play (max tick rate 0) at 2017.03.10-17.48.56
+[2017.03.10-16.48.56:331][889]LogWorld: Bringing up level for play took: 0.001569
+[2017.03.10-16.48.56:333][889]PIE: Info Play in editor start time for /Game/UEDPIE_0_whitebox_eva 0.863
+[2017.03.10-16.48.56:333][889]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.49.40:976][160]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.49.41:059][160]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.50.59:708][185]BlueprintLog: New page: Compile Telephone
+[2017.03.10-16.51.04:853][329]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-16.51.04:870][329]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.51.04:871][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.10-16.51.04:871][329]PIE: New page: PIE session: whitebox_eva (Mar 10, 2017, 6:51:04 PM)
+[2017.03.10-16.51.04:871][329]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_whitebox_eva
+[2017.03.10-16.51.04:875][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004474s)
+[2017.03.10-16.51.04:876][329]LogAIModule: Creating AISystem for world whitebox_eva
+[2017.03.10-16.51.04:876][329]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2017.03.10-16.51.04:876][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/whitebox_eva.whitebox_eva to /Game/UEDPIE_0_whitebox_eva.whitebox_eva (0.005363s)
+[2017.03.10-16.51.04:930][329]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-16.51.04:942][329]LogInit: FAudioDevice initialized.
+[2017.03.10-16.51.04:973][329]LogLoad: Game class is 'MyGame_C'
+[2017.03.10-16.51.04:975][329]LogWorld: Bringing World /Game/UEDPIE_0_whitebox_eva.whitebox_eva up for play (max tick rate 0) at 2017.03.10-17.51.04
+[2017.03.10-16.51.04:975][329]LogWorld: Bringing up level for play took: 0.001687
+[2017.03.10-16.51.04:977][329]PIE: Info Play in editor start time for /Game/UEDPIE_0_whitebox_eva -0.492
+[2017.03.10-16.51.04:978][329]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.51.11:739][534]LogBlueprintUserMessages: [Telephone_330] Hello
+[2017.03.10-16.51.16:527][696]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.51.16:589][696]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.52.04:501][927]BlueprintLog: New page: Compile Telephone
+[2017.03.10-16.52.09:269][ 52]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-16.52.09:292][ 52]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.52.09:292][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.10-16.52.09:292][ 52]PIE: New page: PIE session: whitebox_eva (Mar 10, 2017, 6:52:09 PM)
+[2017.03.10-16.52.09:292][ 52]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_whitebox_eva
+[2017.03.10-16.52.09:296][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004042s)
+[2017.03.10-16.52.09:297][ 52]LogAIModule: Creating AISystem for world whitebox_eva
+[2017.03.10-16.52.09:297][ 52]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2017.03.10-16.52.09:297][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/whitebox_eva.whitebox_eva to /Game/UEDPIE_0_whitebox_eva.whitebox_eva (0.005049s)
+[2017.03.10-16.52.09:345][ 52]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-16.52.09:352][ 52]LogInit: FAudioDevice initialized.
+[2017.03.10-16.52.09:387][ 52]LogLoad: Game class is 'MyGame_C'
+[2017.03.10-16.52.09:389][ 52]LogWorld: Bringing World /Game/UEDPIE_0_whitebox_eva.whitebox_eva up for play (max tick rate 0) at 2017.03.10-17.52.09
+[2017.03.10-16.52.09:389][ 52]LogWorld: Bringing up level for play took: 0.001564
+[2017.03.10-16.52.09:391][ 52]PIE: Info Play in editor start time for /Game/UEDPIE_0_whitebox_eva -0.079
+[2017.03.10-16.52.09:391][ 52]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.52.20:407][353]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.52.20:488][353]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.52.25:328][450]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-16.52.25:347][450]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.52.25:347][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.10-16.52.25:347][450]PIE: New page: PIE session: whitebox_eva (Mar 10, 2017, 6:52:25 PM)
+[2017.03.10-16.52.25:347][450]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_whitebox_eva
+[2017.03.10-16.52.25:350][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003269s)
+[2017.03.10-16.52.25:351][450]LogAIModule: Creating AISystem for world whitebox_eva
+[2017.03.10-16.52.25:351][450]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2017.03.10-16.52.25:351][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/whitebox_eva.whitebox_eva to /Game/UEDPIE_0_whitebox_eva.whitebox_eva (0.004166s)
+[2017.03.10-16.52.25:405][450]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-16.52.25:411][450]LogInit: FAudioDevice initialized.
+[2017.03.10-16.52.25:440][450]LogLoad: Game class is 'MyGame_C'
+[2017.03.10-16.52.25:442][450]LogWorld: Bringing World /Game/UEDPIE_0_whitebox_eva.whitebox_eva up for play (max tick rate 0) at 2017.03.10-17.52.25
+[2017.03.10-16.52.25:442][450]LogWorld: Bringing up level for play took: 0.001448
+[2017.03.10-16.52.25:444][450]PIE: Info Play in editor start time for /Game/UEDPIE_0_whitebox_eva -0.026
+[2017.03.10-16.52.25:444][450]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.52.44:836][993]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.52.44:919][993]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.53.32:057][175]LogSavePackage: Save=114.04ms
+[2017.03.10-16.53.32:057][175]LogSavePackage: Moving '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/whitebox_eva_Auto74E369B0146B2D9B9B3024EBCE34143DA.tmp' to '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/whitebox_eva_Auto7.umap'
+[2017.03.10-16.53.32:059][175]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/whitebox_eva_Auto7.umap
+[2017.03.10-16.53.32:061][175]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/whitebox_eva' took 0.238
+[2017.03.10-16.53.32:061][175]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.238
+[2017.03.10-16.53.32:064][175]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Telephone] ([1] browsable assets)...
+[2017.03.10-16.53.32:090][175]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Telephone.Telephone]
+[2017.03.10-16.53.32:090][175]OBJ SavePackage: Finished generating thumbnails for package [/Game/Telephone]
+[2017.03.10-16.53.32:186][175]LogSavePackage: Save=28.18ms
+[2017.03.10-16.53.32:186][175]LogSavePackage: Moving '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Telephone_Auto746D209A54CCED7335C9223922B0421C9.tmp' to '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/Telephone_Auto7.uasset'
+[2017.03.10-16.53.32:188][175]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Autosaves/Game/Telephone_Auto7.uasset
+[2017.03.10-16.53.32:188][175]LogFileHelpers: Auto-saving content packages took 0.125
+[2017.03.10-16.56.00:877][981]BlueprintLog: New page: Compile Telephone
+[2017.03.10-16.56.11:810][253]BlueprintLog: New page: Compile Telephone
+[2017.03.10-16.56.43:316][ 54]BlueprintLog: New page: Compile Telephone
+[2017.03.10-16.56.49:594][217]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-16.56.49:614][217]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.56.49:615][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.10-16.56.49:615][217]PIE: New page: PIE session: whitebox_eva (Mar 10, 2017, 6:56:49 PM)
+[2017.03.10-16.56.49:615][217]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_whitebox_eva
+[2017.03.10-16.56.49:620][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004743s)
+[2017.03.10-16.56.49:620][217]LogAIModule: Creating AISystem for world whitebox_eva
+[2017.03.10-16.56.49:621][217]LogPlayLevel: PIE: World Init took: (0.001143s)
+[2017.03.10-16.56.49:621][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/whitebox_eva.whitebox_eva to /Game/UEDPIE_0_whitebox_eva.whitebox_eva (0.006162s)
+[2017.03.10-16.56.49:686][217]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-16.56.49:695][217]LogInit: FAudioDevice initialized.
+[2017.03.10-16.56.49:725][217]LogLoad: Game class is 'MyGame_C'
+[2017.03.10-16.56.49:727][217]LogWorld: Bringing World /Game/UEDPIE_0_whitebox_eva.whitebox_eva up for play (max tick rate 0) at 2017.03.10-17.56.49
+[2017.03.10-16.56.49:727][217]LogWorld: Bringing up level for play took: 0.002148
+[2017.03.10-16.56.49:730][217]PIE: Info Play in editor start time for /Game/UEDPIE_0_whitebox_eva 0.26
+[2017.03.10-16.56.49:730][217]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.57.01:939][515]LogBlueprintUserMessages: [Telephone_330] Hello
+[2017.03.10-16.57.07:526][676]LogBlueprintUserMessages: [Telephone_330] Hello
+[2017.03.10-16.57.17:554][966]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.57.17:637][966]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.59.07:777][973]BlueprintLog: New page: Compile whitebox_eva
+[2017.03.10-16.59.12:622][ 86]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-16.59.12:646][ 86]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.59.12:646][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.10-16.59.12:646][ 86]PIE: New page: PIE session: whitebox_eva (Mar 10, 2017, 6:59:12 PM)
+[2017.03.10-16.59.12:646][ 86]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_whitebox_eva
+[2017.03.10-16.59.12:650][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004169s)
+[2017.03.10-16.59.12:651][ 86]LogAIModule: Creating AISystem for world whitebox_eva
+[2017.03.10-16.59.12:651][ 86]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2017.03.10-16.59.12:652][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/whitebox_eva.whitebox_eva to /Game/UEDPIE_0_whitebox_eva.whitebox_eva (0.005396s)
+[2017.03.10-16.59.12:705][ 86]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-16.59.12:715][ 86]LogInit: FAudioDevice initialized.
+[2017.03.10-16.59.12:745][ 86]LogLoad: Game class is 'MyGame_C'
+[2017.03.10-16.59.12:747][ 86]LogWorld: Bringing World /Game/UEDPIE_0_whitebox_eva.whitebox_eva up for play (max tick rate 0) at 2017.03.10-17.59.12
+[2017.03.10-16.59.12:747][ 86]LogWorld: Bringing up level for play took: 0.001662
+[2017.03.10-16.59.12:749][ 86]PIE: Info Play in editor start time for /Game/UEDPIE_0_whitebox_eva -0.721
+[2017.03.10-16.59.12:749][ 86]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.59.16:143][178]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.59.16:220][178]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.59.19:234][254]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.10-16.59.19:255][254]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.59.19:255][254]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.10-16.59.19:255][254]PIE: New page: PIE session: whitebox_eva (Mar 10, 2017, 6:59:19 PM)
+[2017.03.10-16.59.19:255][254]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_whitebox_eva
+[2017.03.10-16.59.19:265][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009515s)
+[2017.03.10-16.59.19:265][254]LogAIModule: Creating AISystem for world whitebox_eva
+[2017.03.10-16.59.19:265][254]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2017.03.10-16.59.19:266][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/whitebox_eva.whitebox_eva to /Game/UEDPIE_0_whitebox_eva.whitebox_eva (0.010523s)
+[2017.03.10-16.59.19:302][254]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.10-16.59.19:307][254]LogInit: FAudioDevice initialized.
+[2017.03.10-16.59.19:339][254]LogLoad: Game class is 'MyGame_C'
+[2017.03.10-16.59.19:341][254]LogWorld: Bringing World /Game/UEDPIE_0_whitebox_eva.whitebox_eva up for play (max tick rate 0) at 2017.03.10-17.59.19
+[2017.03.10-16.59.19:341][254]LogWorld: Bringing up level for play took: 0.001707
+[2017.03.10-16.59.19:343][254]PIE: Info Play in editor start time for /Game/UEDPIE_0_whitebox_eva -0.127
+[2017.03.10-16.59.19:343][254]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-16.59.21:240][306]LogBlueprintUserMessages: [whitebox_eva_C_0] Hello
+[2017.03.10-16.59.21:802][321]LogBlueprintUserMessages: [whitebox_eva_C_0] Hello
+[2017.03.10-16.59.22:021][327]LogBlueprintUserMessages: [whitebox_eva_C_0] Hello
+[2017.03.10-16.59.22:246][333]LogBlueprintUserMessages: [whitebox_eva_C_0] Hello
+[2017.03.10-16.59.22:429][338]LogBlueprintUserMessages: [whitebox_eva_C_0] Hello
+[2017.03.10-16.59.22:577][342]LogBlueprintUserMessages: [whitebox_eva_C_0] Hello
+[2017.03.10-16.59.22:760][347]LogBlueprintUserMessages: [whitebox_eva_C_0] Hello
+[2017.03.10-16.59.22:912][351]LogBlueprintUserMessages: [whitebox_eva_C_0] Hello
+[2017.03.10-16.59.23:099][356]LogBlueprintUserMessages: [whitebox_eva_C_0] Hello
+[2017.03.10-16.59.23:245][360]LogBlueprintUserMessages: [whitebox_eva_C_0] Hello
+[2017.03.10-16.59.23:397][364]LogBlueprintUserMessages: [whitebox_eva_C_0] Hello
+[2017.03.10-16.59.23:575][369]LogBlueprintUserMessages: [whitebox_eva_C_0] Hello
+[2017.03.10-16.59.23:761][374]LogBlueprintUserMessages: [whitebox_eva_C_0] Hello
+[2017.03.10-17.00.13:955][726]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-17.00.14:053][726]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/whitebox_eva.whitebox_eva:PersistentLevel' has LevelScriptBlueprint '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva' with GeneratedClass '/Game/whitebox_eva.whitebox_eva_C' with ClassGeneratedBy '/Game/whitebox_eva.whitebox_eva:PersistentLevel.whitebox_eva'
+[2017.03.10-17.02.25:090][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Telephone" FILE="../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Content/Telephone.uasset" SILENT=true
+[2017.03.10-17.02.25:221][733]LogSavePackage: Save=26.42ms
+[2017.03.10-17.02.25:221][733]LogSavePackage: Moving '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/TelephoneA67030464D69319F2C9D478619FF5580.tmp' to '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Content/Telephone.uasset'
+[2017.03.10-17.02.25:233][733]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Content/Telephone.uasset
+[2017.03.10-17.02.30:931][796]LogSavePackage: Save=114.04ms
+[2017.03.10-17.02.30:931][796]LogSavePackage: Moving '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/whitebox_eva3C5874D2402D65DD19402CB579166BA6.tmp' to '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Content/whitebox_eva.umap'
+[2017.03.10-17.02.30:934][796]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Content/whitebox_eva.umap
+[2017.03.10-17.02.30:963][796]LogFileHelpers: Saving map 'whitebox_eva' took 0.257
+[2017.03.10-17.02.31:150][796]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.03.10-17.02.31:405][797]Cmd: QUIT_EDITOR
+[2017.03.10-17.02.32:237][797]LogExit: Preparing to exit.
+[2017.03.10-17.02.33:251][797]LogDirectoryWatcher: A directory notification for 'C:/Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Content/' was aborted.
+[2017.03.10-17.02.33:314][797]LogExit: Editor shut down
+[2017.03.10-17.02.33:315][797]LogExit: Transaction tracking system shut down
+[2017.03.10-17.02.33:566][797]LogObj: Freed 0b from 0 cluster array pools.
+[2017.03.10-17.02.33:566][797]LogExit: Object subsystem successfully closed.
+[2017.03.10-17.02.33:582][797]LogD3D11RHI: Shutdown
+[2017.03.10-17.02.33:582][797]LogD3D11RHI: CleanupD3DDevice
+[2017.03.10-17.02.33:702][797]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.03.10-17.02.33:791][797]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.03.10-17.02.33:791][797]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC478DE64-4182-74C8-AEFE-D3B06EF449B1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=9194f63a49273e147f6e0aaf8734aa4f%7C6b907b87be5d4240be65e97717eb9d18%7C7581ea9d-69ce-42c5-96c0-94145e96af2c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.03.10-17.02.33:809][797]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (246)
+[2017.03.10-17.02.33:809][797]LogModuleManager: Shutting down and abandoning module BlueprintGraph (245)
+[2017.03.10-17.02.33:809][797]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (244)
+[2017.03.10-17.02.33:829][797]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (243)
+[2017.03.10-17.02.33:829][797]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (242)
+[2017.03.10-17.02.33:829][797]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (241)
+[2017.03.10-17.02.33:829][797]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2017.03.10-17.02.33:829][797]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2017.03.10-17.02.33:829][797]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2017.03.10-17.02.33:829][797]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2017.03.10-17.02.33:829][797]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.03.10-17.02.33:830][797]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2017.03.10-17.02.33:830][797]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2017.03.10-17.02.33:830][797]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2017.03.10-17.02.33:830][797]LogDirectoryWatcher: A directory notification for 'C:/Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Content/Collections/' was aborted.
+[2017.03.10-17.02.33:830][797]LogDirectoryWatcher: A directory notification for 'C:/Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Content/Developers/Seb/Collections/' was aborted.
+[2017.03.10-17.02.33:830][797]LogDirectoryWatcher: A directory notification for 'C:/Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Saved/Collections/' was aborted.
+[2017.03.10-17.02.33:830][797]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.03.10-17.02.33:830][797]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.03.10-17.02.33:830][797]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.03.10-17.02.33:830][797]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.03.10-17.02.33:830][797]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.03.10-17.02.33:830][797]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.03.10-17.02.33:830][797]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.03.10-17.02.33:830][797]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.03.10-17.02.33:830][797]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.03.10-17.02.33:830][797]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.03.10-17.02.33:830][797]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.03.10-17.02.33:830][797]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.03.10-17.02.33:830][797]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.03.10-17.02.33:830][797]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.03.10-17.02.33:830][797]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.03.10-17.02.33:830][797]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.03.10-17.02.33:831][797]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.03.10-17.02.33:831][797]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.03.10-17.02.33:831][797]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.03.10-17.02.33:831][797]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.03.10-17.02.33:831][797]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.03.10-17.02.33:831][797]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.03.10-17.02.33:831][797]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.03.10-17.02.33:831][797]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.03.10-17.02.33:831][797]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.03.10-17.02.33:831][797]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.03.10-17.02.33:831][797]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.03.10-17.02.33:831][797]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.03.10-17.02.33:831][797]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.03.10-17.02.33:831][797]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.03.10-17.02.33:831][797]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.03.10-17.02.33:831][797]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.03.10-17.02.33:831][797]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.03.10-17.02.33:831][797]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.03.10-17.02.33:831][797]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.03.10-17.02.34:728][797]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.03.10-17.02.34:728][797]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.03.10-17.02.34:728][797]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.03.10-17.02.34:728][797]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.03.10-17.02.34:728][797]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.03.10-17.02.34:728][797]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.03.10-17.02.34:728][797]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.03.10-17.02.34:728][797]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.03.10-17.02.34:728][797]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.03.10-17.02.34:728][797]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.03.10-17.02.34:728][797]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.03.10-17.02.34:728][797]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.03.10-17.02.34:728][797]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.03.10-17.02.34:728][797]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.03.10-17.02.34:728][797]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.03.10-17.02.34:728][797]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.03.10-17.02.34:728][797]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.03.10-17.02.34:728][797]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.03.10-17.02.34:728][797]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.03.10-17.02.34:729][797]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.03.10-17.02.34:729][797]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.03.10-17.02.34:729][797]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.03.10-17.02.34:729][797]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.03.10-17.02.34:729][797]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.03.10-17.02.34:729][797]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.03.10-17.02.34:729][797]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.03.10-17.02.34:783][797]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.03.10-17.02.34:783][797]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.03.10-17.02.34:783][797]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.03.10-17.02.34:783][797]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.03.10-17.02.34:783][797]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.03.10-17.02.34:783][797]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.03.10-17.02.34:784][797]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.03.10-17.02.34:784][797]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.03.10-17.02.34:784][797]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.03.10-17.02.34:790][797]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.03.10-17.02.34:790][797]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.03.10-17.02.34:790][797]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.03.10-17.02.34:790][797]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.03.10-17.02.34:790][797]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.03.10-17.02.34:790][797]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.03.10-17.02.34:790][797]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.03.10-17.02.34:790][797]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.03.10-17.02.34:790][797]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.03.10-17.02.34:790][797]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.03.10-17.02.34:790][797]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.03.10-17.02.34:790][797]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.03.10-17.02.34:790][797]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.03.10-17.02.34:790][797]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.03.10-17.02.34:790][797]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.03.10-17.02.34:790][797]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.03.10-17.02.34:790][797]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.03.10-17.02.34:790][797]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.03.10-17.02.34:885][797]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.03.10-17.02.34:885][797]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.03.10-17.02.34:886][797]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.03.10-17.02.34:887][797]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.03.10-17.02.34:887][797]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.03.10-17.02.34:888][797]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.03.10-17.02.34:888][797]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.03.10-17.02.34:990][797]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.03.10-17.02.35:090][797]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.03.10-17.02.35:090][797]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.03.10-17.02.35:090][797]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.03.10-17.02.35:090][797]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.03.10-17.02.35:090][797]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.03.10-17.02.35:090][797]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.03.10-17.02.35:090][797]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.03.10-17.02.35:090][797]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.03.10-17.02.35:090][797]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.03.10-17.02.35:090][797]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.03.10-17.02.35:090][797]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.03.10-17.02.35:090][797]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.03.10-17.02.35:090][797]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.03.10-17.02.35:090][797]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.03.10-17.02.35:090][797]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.03.10-17.02.35:090][797]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.03.10-17.02.35:090][797]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.03.10-17.02.35:090][797]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.03.10-17.02.35:090][797]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.03.10-17.02.35:090][797]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.03.10-17.02.35:090][797]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.03.10-17.02.35:092][797]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.03.10-17.02.35:092][797]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.03.10-17.02.35:092][797]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.03.10-17.02.35:092][797]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.03.10-17.02.35:092][797]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.03.10-17.02.35:092][797]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.03.10-17.02.35:092][797]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.03.10-17.02.35:093][797]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Seb/Documents/Cours LUDUS/Assets_cavego/Final_whitebox_seb/Content/' was aborted.
+[2017.03.10-17.02.35:093][797]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.03.10-17.02.35:093][797]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.03.10-17.02.35:255][797]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.03.10-17.02.35:255][797]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.03.10-17.02.35:255][797]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.03.10-17.02.35:255][797]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.03.10-17.02.35:255][797]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.03.10-17.02.35:255][797]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.03.10-17.02.35:255][797]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.03.10-17.02.35:255][797]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.03.10-17.02.35:315][797]LogDerivedDataCache: Shutdown
+[2017.03.10-17.02.35:315][797]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.03.10-17.02.35:315][797]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.03.10-17.02.35:315][797]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.03.10-17.02.35:315][797]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.03.10-17.02.35:315][797]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.03.10-17.02.35:315][797]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.03.10-17.02.35:315][797]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.03.10-17.02.35:315][797]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.03.10-17.02.35:316][797]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.03.10-17.02.35:317][797]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.03.10-17.02.35:317][797]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.03.10-17.02.35:317][797]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.03.10-17.02.35:317][797]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.03.10-17.02.35:317][797]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.03.10-17.02.35:317][797]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.03.10-17.02.35:317][797]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.03.10-17.02.35:317][797]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.03.10-17.02.35:317][797]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.03.10-17.02.35:317][797]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.03.10-17.02.35:317][797]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.03.10-17.02.35:317][797]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.03.10-17.02.35:317][797]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.03.10-17.02.35:317][797]LogOnline:Display: Unloading online subsystem: NULL
+[2017.03.10-17.02.35:317][797]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.03.10-17.02.35:320][797]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.03.10-17.02.35:320][797]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.03.10-17.02.35:320][797]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.03.10-17.02.35:320][797]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.03.10-17.02.35:320][797]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.03.10-17.02.35:320][797]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.03.10-17.02.35:323][797]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.03.10-17.02.35:323][797]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.03.10-17.02.35:323][797]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.03.10-17.02.35:323][797]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.03.10-17.02.35:323][797]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.03.10-17.02.35:323][797]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.03.10-17.02.35:323][797]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.03.10-17.02.35:323][797]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.03.10-17.02.35:323][797]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.03.10-17.02.35:323][797]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.03.10-17.02.35:325][797]LogExit: Exiting.
+[2017.03.10-17.02.35:327][797]Log file closed, 03/10/17 18:02:35
